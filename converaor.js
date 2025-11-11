@@ -1,0 +1,1 @@
+let preco = parseFloat(prompt(digite o preço do produto))
